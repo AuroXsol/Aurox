@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AuroX - The Future of Travel & Crypto</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>AuroX</h1>
+        <p>The Future of Travel & Crypto</p>
+        <a href="#about" class="cta">Learn More</a>
+    </header>
+    
+    <section id="about">
+        <h2>About AuroX</h2>
+        <p>AuroX is a revolutionary blockchain-based payment system designed for seamless global transactions, making travel easier than ever.</p>
+    </section>
+    
+    <section id="roadmap">
+        <h2>Roadmap</h2>
+        <ul>
+            <li><strong>Q1 2025:</strong> Smart contract deployment & partnerships</li>
+            <li><strong>Q2 2025:</strong> Mobile wallet launch</li>
+            <li><strong>Q3 2025:</strong> Expansion to key global markets</li>
+            <li><strong>Q4 2025:</strong> Full-scale adoption & integrations</li>
+        </ul>
+    </section>
+    
+    <section id="tokenomics">
+        <h2>Tokenomics</h2>
+        <p>Total Supply: 1,000,000,000 AURX</p>
+        <p>Allocation:</p>
+        <ul>
+            <li>Development: 40%</li>
+            <li>Marketing: 20%</li>
+            <li>Community Rewards: 20%</li>
+            <li>Liquidity: 10%</li>
+            <li>Team: 10%</li>
+        </ul>
+    </section>
+    
+    <section id="contact">
+        <h2>Join Us</h2>
+        <p>Stay updated with our latest news!</p>
+        <form>
+            <input type="email" placeholder="Enter your email" required>
+            <button type="submit">Subscribe</button>
+        </form>
+    </section>
+    
+    <footer>
+        <p>&copy; 2025 AuroX. All rights reserved.</p>
+    </footer>
+</body>
+</html>
